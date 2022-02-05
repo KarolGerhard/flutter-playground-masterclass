@@ -44,17 +44,17 @@ class TinderPage extends StatelessWidget {
               child: PrivacyTextWidget(),
             ),
             SignButtom(
-              text: "Sign in with apple".toUpperCase(),
+              text: "Sign in with apple",
               iconPath: 'assets/apple-logo.png',
               onPressed: () {},
             ),
             SignButtom(
-              text: "Sign in with facebook".toUpperCase(),
+              text: "Sign in with facebook",
               iconPath: 'assets/facebook-logo.png',
               onPressed: () {},
             ),
             SignButtom(
-              text: "Sign in with phone number".toUpperCase(),
+              text: "Sign in with phone number",
               iconPath: 'assets/speech-bubble.png',
               onPressed: () {},
             ),
